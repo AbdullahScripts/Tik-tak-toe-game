@@ -43,7 +43,7 @@ A "Reset" button is provided to restart the game. Clicking the "Reset" button cl
 
 Feel free to contribute to the code or suggest improvements!
 
-## Authors
+## Author
 
 - [Muhammad Abdullah]
 
