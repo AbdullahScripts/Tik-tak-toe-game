@@ -11,9 +11,7 @@ body{
 .hide{
     display: none;
 }
-.show-out{
-    display: block;
-}
+
 /* butten function  */
 
 #again{

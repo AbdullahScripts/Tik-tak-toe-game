@@ -66,6 +66,14 @@ function CheckWinner() {
 // Reset button 
 
 function reset(){
- 
-  console.log("clicked")
+  show.classList.add("hide");
+for(let i=0;i<=9;i++){
+
+buttons[i].innerText="",
+buttons[i].disabled=false
+turn=false
+
+}
+
+
 }
